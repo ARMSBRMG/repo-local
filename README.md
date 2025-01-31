@@ -12,7 +12,9 @@ Repositório para armazenar resumos GIT GITHUB, curso de versionamento de códig
 ## 💻 Resumos das Aulas
 | Aulas | Resumos|
 |-------| -------|
-|Gravando alterações nos repositórios| [Resumo] (https://web.dio.me/course/406684a4-396d-4160-94b9-ead934e18564/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1&back=%2Ftrack%2Fmicrosoft-azure-advanced&moduleId=undefined&tab=undefined)|
+|Aula 01| [Resumo] (https://web.dio.me/course/406684a4-396d-4160-94b9-ead934e18564/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1&back=%2Ftrack%2Fmicrosoft-azure-advanced&moduleId=undefined&tab=undefined)|
+|Aula 02| [Resumo] (https://web.dio.me/course/406684a4-396d-4160-94b9-ead934e18564/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1&back=%2Ftrack%2Fmicrosoft-azure-advanced&moduleId=undefined&tab=undefined)|
+
 
 ...
 git init
